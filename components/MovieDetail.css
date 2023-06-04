@@ -1,0 +1,24 @@
+.movieDetails {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+}
+
+
+.movieDetails ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+.movieDetails li {
+    width: 3rem;
+}
+
+.details {
+    width: 60%;
+}
